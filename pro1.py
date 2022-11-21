@@ -2,7 +2,7 @@ class bank:
     bname = 'sbi'
     bloc = 'banglore'
     bceo = 'raj'
-    count = 2
+    count = 3
     if count > 0:
         def __init__(self, name, num, mail, addr, bal, acnum):
         
